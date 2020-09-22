@@ -1,4 +1,6 @@
 HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival
+
+更精确地预估到达时间，滴滴新研究提出异质时空图卷积网络
 ---------------
 
 This is basic implementation of our KDD'20 Applied Data Science Track (Oral) paper:
